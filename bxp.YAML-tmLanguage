@@ -73,8 +73,4 @@ repository:
       dim-color)(=)([^\n,]*)
     captures:
       '3': {name: constant.character.value.style.sbss.bxp}
-
-  sbss-control:
-
-
 ...
