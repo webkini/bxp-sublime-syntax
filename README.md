@@ -6,3 +6,6 @@ bxp syntax definition for sublime text 2
 sublime text 2 기준으로 작성했으며 지속적으로 업데이트할 예정입니다.
 
 원래 package 로 만들어서 사용해야 되는데 어느정도 완성되고 난뒤에 그렇게 배포할 예정!
+
+
+## sublime text 2 에서 사용하기
