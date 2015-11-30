@@ -19,3 +19,6 @@ package repository 가 따로 있는것으로 보임.
 * https://packagecontrol.io/installation#st2
 * http://sublimetext.info/docs/en/extensibility/syntaxdefs.html
 * http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/extensibility/syntaxdefs.html
+
+## UPDATED
+* 2015.11.30 : 정규식 및 Syntax Definition 수정.
